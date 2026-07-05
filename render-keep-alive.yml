@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping Render App
-        run: curl -s https://myportfolio-119b.onrender.com > /dev/null
+        run: curl -s https://david-kofa.onrender.com > /dev/null
